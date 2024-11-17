@@ -149,6 +149,6 @@ darknet detector map data/c2f.data cfg/ms-dayolo.cfg backup/ms-dayolo_best.weigh
 For further details, refer to the original repository:  
 [GitHub - Mazin-Hnewa/MS-DAYOLO](https://github.com/Mazin-Hnewa/MS-DAYOLO)
 
-> Compiling can be more tedious, but following these steps with the compiled one will save you much trouble as long as you set the environment to mine!
+> Compiling can be more tedious, but following these steps with the compiled one will save you much trouble as long as you set the same environment to mine!
 
 ---
