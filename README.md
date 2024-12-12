@@ -141,6 +141,13 @@ After training, evaluate the model with:
 ```cmd
 darknet detector map data/c2f.data cfg/ms-dayolo.cfg backup/ms-dayolo_best.weights
 ```
+### Prediction
+
+After evaluation, predict the model with:
+
+```cmd
+darknet detector demo data/c2f.data cfg/ms-dayolo.cfg backup/ms-dayolo_best.weights <video_file>
+```
 
 ---
 
